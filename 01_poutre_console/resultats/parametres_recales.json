@@ -1,0 +1,11 @@
+{
+  "f_fft_Hz": 4.6000000000000005,
+  "f1_Hz": 4.592859444074838,
+  "amortissement": 0.012006534781679654,
+  "decalage_capteur": 0.02948383548405336,
+  "E_effectif_Pa": 191511482405.15912,
+  "f_nominale_Hz": 4.809449769062381,
+  "ecart_type_residu": 0.12692897633457229,
+  "erreur_E_pourcent": 2.2900599973677966,
+  "erreur_amortissement_pourcent": 0.05445651399711704
+}

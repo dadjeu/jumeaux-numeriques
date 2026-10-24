@@ -1,0 +1,13 @@
+{
+  "E_effectif_Pa": 196000000000.0,
+  "amortissement_mode1": 0.012,
+  "amortissement_mode2": 0.02,
+  "fleche_initiale_m": 0.0292,
+  "amplitude_mode2_m": 0.0002,
+  "masse_bout_kg": 0.0486,
+  "frequences_reelles_Hz": [
+    4.5929,
+    42.2527
+  ],
+  "note": "Donn\u00e9es synth\u00e9tiques g\u00e9n\u00e9r\u00e9es par code/generer_donnees.py"
+}
