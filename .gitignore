@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires Fusion et vidéos lourdes (> 50 Mo : à mettre sur un lien externe)
+*.f3d.tmp
+*.mp4
